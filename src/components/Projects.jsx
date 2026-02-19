@@ -1,6 +1,6 @@
 const projects = [
   { title: "Site Vitrine", image: "/images/vitrine.png", link: "https://morlan-store.netlify.app/" },
-  { title: "E-commerce Site", image: "/images/commerce.webp", link: "#" },
+  { title: " Mini E-commerce Site", image: "/images/commerce.webp", link: "https://scarfeace.netlify.app/" },
   { title: "Portfolio", image: "/images/hero.png", link: "https://portfolio-phi-seven-86.vercel.app" },
 ];
 
