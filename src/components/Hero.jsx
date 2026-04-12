@@ -30,7 +30,7 @@ export default function Hero() {
         {/* RIGHT SIDE: IMAGE */}
         <div className={`flex-1 flex justify-center md:justify-end transition-all duration-1000 ${animate ? "opacity-100 scale-100" : "opacity-0 scale-90"}`}>
           <img
-            src="/images/hero.png" // <--- Remplace avec ton image nettoyée
+            src="/images/costume.png" // <--- Remplace avec ton image nettoyée
             alt="Scarface"
             className="w-64 h-64 sm:w-72 sm:h-72 md:w-96 md:h-96 object-cover rounded-full shadow-2xl border-4 border-primary-500"
           />
